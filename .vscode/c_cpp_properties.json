@@ -10,6 +10,7 @@
             "includePath": [
                 "c:/Users/silas/OneDrive - Danmarks Tekniske Universitet/Dokumenter/GitHub/drone/include",
                 "c:/Users/silas/OneDrive - Danmarks Tekniske Universitet/Dokumenter/GitHub/drone/src",
+                "c:/Users/silas/OneDrive - Danmarks Tekniske Universitet/Dokumenter/GitHub/drone/.pio/libdeps/teensy40/Bolder Flight Systems MPU9250/src",
                 "c:/Users/silas/OneDrive - Danmarks Tekniske Universitet/Dokumenter/GitHub/drone/.pio/libdeps/teensy40/Adafruit BusIO",
                 "C:/Users/silas/.platformio/packages/framework-arduinoteensy/cores/teensy4",
                 "C:/Users/silas/.platformio/packages/framework-arduinoteensy/libraries/SPI",
@@ -118,6 +119,7 @@
                 "path": [
                     "c:/Users/silas/OneDrive - Danmarks Tekniske Universitet/Dokumenter/GitHub/drone/include",
                     "c:/Users/silas/OneDrive - Danmarks Tekniske Universitet/Dokumenter/GitHub/drone/src",
+                    "c:/Users/silas/OneDrive - Danmarks Tekniske Universitet/Dokumenter/GitHub/drone/.pio/libdeps/teensy40/Bolder Flight Systems MPU9250/src",
                     "c:/Users/silas/OneDrive - Danmarks Tekniske Universitet/Dokumenter/GitHub/drone/.pio/libdeps/teensy40/Adafruit BusIO",
                     "C:/Users/silas/.platformio/packages/framework-arduinoteensy/cores/teensy4",
                     "C:/Users/silas/.platformio/packages/framework-arduinoteensy/libraries/SPI",
