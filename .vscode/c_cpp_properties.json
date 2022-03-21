@@ -17,7 +17,8 @@
                 "C:/Users/silas/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
                 "C:/Users/silas/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src",
                 "C:/Users/silas/.platformio/packages/framework-arduino-avr/libraries/Wire/src",
-                ""
+                "",
+                "${workspaceFolder}/.pio/libdeps/uno/Adafruit Unified Sensor"
             ],
             "browse": {
                 "limitSymbolsToIncludedHeaders": true,
